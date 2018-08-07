@@ -1,6 +1,6 @@
 def fizzbuzz (number)
   
-  if number && number%5==0
+  if 5*
     "FizzBuzz"
     
   elsif number%5==0
