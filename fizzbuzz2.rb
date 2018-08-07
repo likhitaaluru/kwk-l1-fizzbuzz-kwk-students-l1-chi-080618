@@ -1,11 +1,11 @@
 
 
 def fizzbuzz (number)
- if number%3==0 && number%5==0
+ if 3*(number/3)==number && 5*(number/5)==number
   "FizzBuzz"
  elsif 5*(number/5)==number
  "Buzz"
- elsif number%3==0
+ elsif 3*(number/3)==number
  "Fizz"
  else
   nil 
