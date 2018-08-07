@@ -1,5 +1,3 @@
-
-
 def fizzbuzz (number)
  if 3*(number/3)==number && 5*(number/5)==number
   "FizzBuzz"
@@ -11,3 +9,5 @@ def fizzbuzz (number)
   nil 
  end
 end
+
+
